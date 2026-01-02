@@ -10,15 +10,18 @@ The goal is to answer a simple business question:
 ---
 
 ## Dataset
-The analysis uses a public customer churn dataset representing a telecom-style
-subscription business.  
-Each row represents a customer, including:
-- demographics
-- services used
-- contract details
-- tenure
-- monthly and total charges
-- churn outcome
+
+The dataset used in this project is the **Telco Customer Churn** dataset, sourced from **Kaggle**. It represents a fictional but realistic telecommunications subscription business and is widely used for churn and retention analysis.
+
+Each row corresponds to an individual customer and includes information on:
+- customer demographics 
+- subscribed services 
+- contract details 
+- customer tenure (months with the company)
+- financial metrics
+- churn outcome (whether the customer left the service)
+
+Although the dataset is synthetic, it closely mirrors real-world subscription business data and is well suited for analysing customer churn, retention patterns, and contract-driven behaviour.
 
 ---
 
